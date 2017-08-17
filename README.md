@@ -1,6 +1,8 @@
 # stickly-frontend
 
-> A Vue.js project
+> Front end component for an eCommerce application. Built with Vue.js and powered by Stripe.js for payment processing.
+
+![](https://cdn.scotch.io/2842/b7yhhuUPSGO1fEkMHD6P_sticks.jpeg)
 
 ## Build Setup
 

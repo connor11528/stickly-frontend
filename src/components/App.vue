@@ -6,7 +6,7 @@
             <nav class="nav">
               <div class="container">
                 <div class="nav-left">
-                  <router-link to="/" class="nav-item" style='color:darkslategrey;'>Lineman's Milestones</router-link>
+                  <router-link to="/" class="nav-item" style='color:darkslategrey;'>Stickly</router-link>
                 </div>
                 <span class="nav-toggle">
                   <span></span>
@@ -14,13 +14,9 @@
                   <span></span>
                 </span>
                 <div class="nav-right nav-menu">
-                    <a class="nav-item" style='color:darkslategrey;'>
-                        Contact
-                    </a>
                     <a class="nav-item" href='mailto:support@stickly.com'>
                       Contact
                     </a>
-
                 </div>
               </div>
             </nav>
