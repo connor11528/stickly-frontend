@@ -12,7 +12,7 @@ try {
 
 // use appropriate endpoint
 if (process.env.NODE_ENV === 'production') {
-    window.endpoint = `http://YOUR_KEROKU_APP_NAME.herokuapp.com`;
+    window.endpoint = `https://stickly.herokuapp.com/`;
 } else {
     window.endpoint = 'http://localhost:3000';
 }
